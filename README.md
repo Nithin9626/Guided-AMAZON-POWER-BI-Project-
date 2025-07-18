@@ -1,1 +1,5 @@
-# Guided-AMAZON-POWER-BI-Project-
+This Power BI dashboard provides an in-depth analysis of Amazon product sales performance across various categories. Designed for e-commerce analysts, marketing teams, and decision-makers, it offers a clear overview of sales trends, customer engagement, and product performance. The dashboard displays key performance indicators such as $2.18M Year-to-Date (YTD) Sales, $811.09K Quarter-to-Date (QTD) Sales, 27.75K products sold, and 19M customer reviews, offering a complete snapshot of business health.
+
+The dashboard is segmented into visual panels including sales by month and week, allowing users to identify peak performance periods and seasonal trends. A detailed breakdown by product category—such as cameras, car accessories, clothes, shoes, and mobile accessories—highlights both current and cumulative sales. It also showcases top-performing products based on YTD sales and YTD reviews, helping stakeholders identify high-demand items and customer preferences.
+
+Filters are available to dynamically adjust insights based on product category and quarter, making the dashboard interactive and adaptable to various analytical needs
